@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="AZ TV 1080p" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="Azərbaycan",AZ TV 1080p
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 tvg-name="AZ TV 720p" tvg-id="AZ TV 720p.tr" tvg-logo="https://admin.aztv.az/userfiles/files/a.png" group-title="Azərbaycan",AZ TV 720p
+https://str2.yodacdn.net/aztv_300_to_small/tracks-v1a1/mono.m3u8?token=3bca0c976a3b97d59b648152795045f9251c81be-260b09d01e979ea3e6e4bba302b1304d-1749317233000000-1749306433000
+#EXTINF:-1 tvg-name="İDMAN TV 1080p" tvg-id="" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Azərbaycan",İDMAN TV 1080p
+https://goldvod.org/tv/vavoo?id=2368422760ba45ce579307
+#EXTINF:-1 tvg-name="İDMAN TV 720p" tvg-id="" tvg-logo="https://i.imgur.com/fM9FOrZ.png" group-title="Azərbaycan",İDMAN TV 720p
+https://goldvod.org/tv/uyanik?id=53
+#EXTINF:-1 tvg-name="CBC SPORT 720p" tvg-id="" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="Azərbaycan",CBC SPORT 720p
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-name="MUZ TV SD" tvg-id="" tvg-logo="https://www.muz-tv.az/assets/images/logo.png" group-title="Azərbaycan",MUZ TV SD
+https://canlitvme.ismailturret.workers.dev/muztv.m3u8
+#EXTINF:-1 tvg-name="BAKU TV 1080P" tvg-id="BAKU TV 1080P.tr" tvg-logo="https://baku.tv/assets/frontend/img/logo.svg" group-title="Azərbaycan",BAKU TV 1080P
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-name="Medeniyyet TV SD" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="Azərbaycan",Medeniyyet TV SD
+https:\\goldvod.org\tv\az.php?id=medeniyet
+#EXTINF:-1 tvg-name="Medeniyyet TV SD [YEDEK]" tvg-id="" tvg-logo="https://admin.aztv.az/userfiles/files/I9FxttYK0IfxdEHYQv8v.png" group-title="Azərbaycan",Medeniyyet TV SD [YEDEK]
+https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ATV AZAD TV 1080p" tvg-id="" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp" group-title="Azərbaycan",ATV AZAD TV 1080p
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 tvg-name="ATV AZAD TV SD" tvg-id="" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/atvazadtv-hdtvler-0lk8.webp" group-title="Azərbaycan",ATV AZAD TV SD
+https://canlitvme.ismailturret.workers.dev/atvazadtv.m3u8
+#EXTINF:-1 tvg-name="ARB TV 1080p" tvg-id="" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="Azərbaycan",ARB TV 1080p
+https://goldvod.org/tv/az.php?id=arbhd
+#EXTINF:-1 tvg-name="ARB TV 1080p [YEDEK]" tvg-id="" tvg-logo="https://arbtv.az/assets/uploads/sites/logo.png" group-title="Azərbaycan",ARB TV 1080p [YEDEK]
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-name="ARB 24 TV SD" tvg-id="" tvg-logo="https://arb24.az/frontend/assets/img/global/header/logo.svg" group-title="Azərbaycan",ARB 24 TV SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-name="ARB GÜNEŞ SD" tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Azərbaycan",ARB GÜNEŞ SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-name="İctimai TV 720p" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai TV 720p
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-name="İctimai TV SD" tvg-id="" tvg-logo="https://itv.az/assets/images/itv-logo.png" group-title="Azərbaycan",İctimai TV SD
+https://canlitvme.ismailturret.workers.dev/ictimaitv.m3u8
+#EXTINF:-1 tvg-name="Kanal S 1080p" tvg-id="" tvg-logo="https://tr.canlitv.watch/channels/kanal-s-az.png" group-title="Azərbaycan",Kanal S 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-name="XEZER TV SD" tvg-id="XezerTV.az" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5xSALweBiO_n7j_FBh1l_Q_M4sN0VtCD8g&s" group-title="Azərbaycan",XEZER TV SD
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-name="Dünya TV 720p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="Azərbaycan",Dünya TV 720p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-name="AZSTARTV 1080p" tvg-id="AZSTARTV 1080p.tr" tvg-logo="https://azstartv.com/images/logo.png" group-title="Azərbaycan",AZSTARTV 1080p
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1917817031_b2096000.m3u8
+#EXTINF:-1 tvg-name="QAFQAZ TV 720p" tvg-id="QAFQAZ TV 720p.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="Azərbaycan",QAFQAZ TV 720p
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=196927cf184c2da76f8d57eeb01cd462b431486b-7f63821727ab4fba4c44de9efcc3c62d-1749327541000000-1749316741000
+#EXTINF:-1 tvg-name="GUNAZ TV 1080p" tvg-id="GUNAZ TV 1080p.tr" tvg-logo="https://gunaz.tv/frontend/images/logo.png.pagespeed.ce.erdRINlH0c.png" group-title="Azərbaycan",GUNAZ TV 1080p
+https://2meet.az/live/livestream.flv
+#EXTINF:-1 tvg-name="Naxçıvan TV 720p" tvg-id="" tvg-logo="https://ntv.az/assets/images/logo.png?v=2" group-title="Azərbaycan",Naxçıvan TV 720p
+https://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:-1 tvg-name="EL TV SD" tvg-id="EL TV SD.tr" tvg-logo="https://www.eltv.az/uploads/settings/eltv-logo67fb856149143.png" group-title="Azərbaycan",EL TV SD
+https://live.eltv.az/live/eltv/chunklist_w1651633047.m3u8
+#EXTINF:-1 tvg-name="REAL TV 720p" tvg-id="REAL TV 720p.tr" tvg-logo="https://i.hizliresim.com/ktnte41.png" group-title="Azərbaycan",REAL TV 720p
+https:\\goldvod.org\tv\az.php?id=real
+#EXTINF:-1 tvg-name="APA TV 720p" tvg-id="APA TV 720p.tr" tvg-logo="https://acra.gov.az/storage/947/apatv-loqo-%E2%80%94-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png" group-title="Azərbaycan",APA TV 720p
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-name="FOG MUSIC 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/mm2fvj4.png" group-title="Azərbaycan",FOG MUSIC 720p
+https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
+#EXTINF:-1 tvg-name="CBC AZ TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CBC.jpg" group-title="Azərbaycan",CBC AZ TV
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 tvg-name="Space TV 1080p" tvg-id="" tvg-logo="https://acra.gov.az/storage/1182/Space-Logo--(1).jpg" group-title="Azərbaycan",Space TV 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-name="TMB TV 1080p" tvg-id="" tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png" group-title="Azərbaycan",TMB TV 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-name="Səhiyyə TV 1080p" tvg-id="" tvg-logo="https://sehiyyetv.az/wp-content/uploads/2022/11/sh2-1024x516.png" group-title="Azərbaycan",Səhiyyə TV 1080p
+https://goldvod.org/tv/az.php?id=shtv
+#EXTINF:-1 tvg-name="Kəpəz TV 720p" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Kapaz_TV_Logo_2019.png" group-title="Azərbaycan",Kəpəz TV 720p
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:-1 tvg-name="AYAZ TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/6x6b309.jpg" group-title="Azərbaycan",AYAZ TV 720p
+https:\\janya-ayaztv.vgcdn.net\ptnr-ayaztv\title-Ayaz_TV\v1\vglive-sk-934820\AyazTV_2500k.m3u8
+#EXTINF:-1 tvg-name="Show Plus TV 1080p" tvg-id="ShowPlusTV.az" tvg-logo="https://i.imgur.com/Je2DGSG.jpg" group-title="Azərbaycan",Show Plus TV 1080p
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-name="Alvin Channel TV 720p" tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Azərbaycan",Alvin Channel TV 720p
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="MUSIC AZERBAYCAN 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/lyihj05.png" group-title="Azərbaycan",MUSIC AZERBAYCAN 720p
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-name="KANAL 12 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/jaxnqbh.jpg" group-title="Azərbaycan",KANAL 12 720p
+http:\\185.234.111.229:8000\play\a054
+#EXTINF:-1 tvg-name="Hadi TV3 720p [Azerbaycan]" tvg-id="" tvg-logo="https://az.haditv.co.uk/pics/logo.png" group-title="Azərbaycan",Hadi TV3 720p [Azerbaycan]
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 tvg-name="MCJ TV SD" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nwGhSq2ccIniLb9kpkYPOc4Ei28s5VoN4G2QLnJP0CLA=s900-c-k-c0x00ffffff-no-rj" group-title="Azərbaycan",MCJ TV SD
+https://live-cdn-65984.varplaycdn.cfd/mcjtv/index.m3u8
+#EXTINF:-1 tvg-name="VIP TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/m9ig7w5.png" group-title="Azərbaycan",VIP TV 1080p
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-name="TV 36 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/4na3hnx.png" group-title="Azərbaycan",TV 36 720p
+http://cdn4.yayin.com.tr/tv36/video.m3u8
+#EXTINF:-1 tvg-name="Esma TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/1hs2621.png" group-title="Azərbaycan",Esma TV 1080p
+https://a8.radyotelekom.com.tr:3899/stream/play.m3u8
+#EXTINF:-1 tvg-name="MUSIC AZ HIT 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/gr51c8b.png" group-title="Azərbaycan",MUSIC AZ HIT 1080p
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 tvg-name="CTV AZERBAYCAN TV 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/sbbc66j.png" group-title="Azərbaycan",CTV AZERBAYCAN TV 720p
+http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+#EXTINF:-1 tvg-name="ARI MUSIC 720p" tvg-id="" tvg-logo="https://i.hizliresim.com/6z85zny.png" group-title="Azərbaycan",ARI MUSIC 720p
+http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
+#EXTINF:-1 tvg-name="KÖNÜL TV 1080p" tvg-id="" tvg-logo="https://i.hizliresim.com/l5had2i.png" group-title="Azərbaycan",KÖNÜL TV 1080p
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 tvg-name="VOSTOK TV SD" tvg-id="" tvg-logo="https://vostok.tv/wp-content/uploads/2025/02/weblogo.png" group-title="Azərbaycan",VOSTOK TV SD
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=vLLBHMJRHo6oUXfEEkRMCA&e=1754575230&scheme=https
